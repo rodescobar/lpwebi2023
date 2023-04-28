@@ -1,0 +1,25 @@
+foreach($item as $carrinho)
+[
+    quantidade = 2
+    nome       = calça
+    valor      = 150,00
+]
+
+[
+    0 => [
+        quantidade = 1
+        nome       = meia
+        valor      = 50,00
+    ]
+    1 => [
+        quantidade = 0
+        nome       = calça
+        valor      = 150,00
+    ]
+
+    2 => [
+        quantidade = 11
+        nome       = camiseta
+        valor      = 25,00
+    ]
+]
