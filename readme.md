@@ -71,3 +71,12 @@
 - Function
 - Classe
 
+## 18/05/2023
+- Falta do professor
+
+## Aula16 - 26/05/2023
+- Classes em PHP
+- Herança
+- Exemplos
+- [Trabalho005](Trabalho005.pdf) - Data entrega 27/05/223
+
