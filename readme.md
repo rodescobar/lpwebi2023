@@ -78,5 +78,10 @@
 - Classes em PHP
 - Herança
 - Exemplos
-- [Trabalho005](Trabalho005.pdf) - Data entrega 27/05/223
+- [Trabalho005](Trabalho005.pdf) - Data entrega 27/05/2023
 
+## Aula17 - 01/06/2023
+- Trabalho006
+- Em dupla
+- Cópia Pichau
+- [Trabalho006](Trabalho006.pdf) - Data entrega 15/06/2023
